@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+a{
+	text-decoration:none;
+	color:black;
+	
+}
+#skills{
+	background:yellow;
+	padding:10px;
+	margin:30px;
+}
+#projects{
+	background:yellow;
+	padding:10px;
+	margin:30px;
+}
+}
